@@ -8,7 +8,7 @@ export default function Home() {
             <h1 className="home-title">
                 Bienvenue au <span>Mordor</span>
             </h1>
-            <p>Mordor est un site ecomerce destiné à la vente des mugs personnalisés.</p>
+            <p>Mordor est un site ecommerce destiné à la vente des mugs personnalisés.</p>
             <img src={imgHomeShop} alt="accueil shop" />
         </div>
     )
